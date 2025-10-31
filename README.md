@@ -78,12 +78,22 @@ const amithh = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmithhSandesh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=C9D1D9" alt="Amithh's GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=AmithhSandesh&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="Amithh's Streak Stats"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmithhSandesh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AmithhSandesh&theme=react-dark&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF&hide_border=true" alt="Activity Graph"/>
+<a href="https://github.com/AmithhSandesh">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmithhSandesh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=C9D1D9" alt="Amithh's GitHub Stats"/>
+</a>
+<a href="https://github.com/AmithhSandesh">
+  <img width="49%" src="https://streak-stats.demolab.com/?user=AmithhSandesh&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="Amithh's Streak Stats"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/AmithhSandesh">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmithhSandesh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+</a>
+<a href="https://github.com/AmithhSandesh">
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AmithhSandesh&theme=react-dark&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF&hide_border=true" alt="Activity Graph"/>
+</a>
 
 </div>
 
