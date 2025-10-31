@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-      
+
       - name: Generate the snake SVG
         uses: Platane/snk@v3
         with:

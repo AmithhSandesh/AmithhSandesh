@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=AMITHH%20SANDESH&fontSize=75&fontAlign=50&fontAlignY=40&color=gradient&customColorList=12,16,20,24,28&desc=Full-Stack%20Developer%20%7C%20Code%20Enthusiast%20%7C%20Sri%20Lanka%20🇱🇰&descAlign=50&descAlignY=55&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=AMITH%20SANDESH&fontSize=85&fontAlign=50&fontAlignY=40&color=gradient&customColorList=12,16,20,24,28&desc=Full-Stack%20Developer%20%7C%20Code%20Enthusiast%20%7C%20Sri%20Lanka%20🇱🇰&descAlign=50&descAlignY=55&animation=twinkling" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&random=false&width=700&lines=Full-Stack+Developer+💻;React+%7C+TypeScript+%7C+Node.js+⚡;Building+Scalable+Applications+🚀;Always+Learning+New+Tech+📚)](https://git.io/typing-svg)
 
@@ -23,7 +23,7 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
@@ -32,7 +32,7 @@ const amithh = {
     pronouns: "He" | "Him",
     location: "Sri Lanka 🇱🇰",
     code: ["JavaScript", "TypeScript", "Python", "C++"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography","automation"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js", "Vite"],
@@ -106,7 +106,7 @@ const amithh = {
 
 <img src="https://github-readme-stats.vercel.app/api?username=AmithhSandesh&show_icons=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&ring_color=F85D7F" width="100%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AmithhSandesh&theme=radical&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=AmithhSandesh&theme=radical&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" width="100%"/>
 
 </td>
 <td width="50%">
@@ -128,24 +128,6 @@ const amithh = {
 <div align="center">
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=AmithhSandesh&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/AmithhSandesh">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmithhSandesh&repo=AmithhSandesh&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" width="48%"/>
-</a>
-
-</div>
-
-<div align="center">
-
-### 💡 [Explore All My Repositories →](https://github.com/AmithhSandesh?tab=repositories)
 
 </div>
 
@@ -209,7 +191,7 @@ const amithh = {
 
 ### 😂 Random Dev Meme
 
-<img src='https://memer-new.vercel.app/' style="height: 400px;" alt="Meme"/>
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card" />
 
 </div>
 
