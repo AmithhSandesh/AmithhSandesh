@@ -21,36 +21,20 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br/>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
+**👨‍💻 Full-Stack Developer from Sri Lanka 🇱🇰**
 
-```javascript
-const amithh = {
-  pronouns: "He" | "Him",
-  location: "Sri Lanka 🇱🇰",
-  code: ["JavaScript", "TypeScript", "Python", "C++"],
-  askMeAbout: ["web dev", "tech", "app dev", "photography", "automation"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Next.js", "Vite"],
-      css: ["TailwindCSS", "Bootstrap", "Material-UI"],
-    },
-    backEnd: {
-      js: ["Node.js", "Express"],
-      python: ["Django", "Flask"],
-    },
-    databases: ["MongoDB", "MySQL", "PostgreSQL"],
-    devOps: ["Docker", "AWS", "GitHub Actions"],
-    tools: ["Git", "Postman", "VS Code", "Figma"],
-  },
-  currentFocus: "Building scalable full-stack applications",
-  funFact:
-    "There are two ways to write error-free programs; only the third works",
-};
-```
+- 🔭 Currently building **scalable full-stack applications**
+- 💻 Working with **JavaScript, TypeScript, Python & C++**
+- 🚀 Love working on **React, Node.js, Express & Next.js**
+- 🎨 Frontend: **TailwindCSS, Bootstrap, Material-UI**
+- 🗄️ Databases: **MongoDB, MySQL, PostgreSQL**
+- ☁️ DevOps: **Docker, AWS, GitHub Actions**
+- 📫 Ask me about **web dev, tech, app dev, photography, automation**
+- ⚡ Fun fact: **There are two ways to write error-free programs; only the third works**
 
 <br clear="right"/>
 
