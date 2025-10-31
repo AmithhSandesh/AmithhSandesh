@@ -101,25 +101,19 @@ const amithh = {
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+<a href="https://github.com/AmithhSandesh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmithhSandesh&show_icons=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&ring_color=F85D7F"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmithhSandesh&layout=compact&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF&langs_count=8"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AmithhSandesh&show_icons=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&ring_color=F85D7F" width="100%"/>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=AmithhSandesh&theme=radical&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" width="100%"/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AmithhSandesh&theme=radical&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak"/>
+</div>
 
-</td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmithhSandesh&layout=compact&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF&langs_count=8" width="100%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmithhSandesh&bg_color=1F222E&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</td>
-</tr>
-</table>
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmithhSandesh&bg_color=1F222E&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
