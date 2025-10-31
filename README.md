@@ -24,16 +24,16 @@ const amithh = {
   technologies: {
     frontEnd: {
       js: ["React", "Vite"],
-      css: ["TailwindCSS", "CSS3"]
+      css: ["TailwindCSS", "CSS3"],
     },
     backEnd: {
       js: ["Node.js", "Express"],
-      databases: ["MongoDB"]
+      databases: ["MongoDB"],
     },
-    tools: ["Git", "GitHub", "Postman", "VS Code"]
+    tools: ["Git", "GitHub", "Postman", "VS Code"],
   },
   currentFocus: "Building scalable full-stack applications",
-  funFact: "I debug with console.log and I'm not ashamed 😎"
+  funFact: "I debug with console.log and I'm not ashamed 😎",
 };
 ```
 
@@ -44,12 +44,14 @@ const amithh = {
 <div align="center">
 
 ### Languages
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Frontend
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -57,11 +59,13 @@ const amithh = {
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Backend & Database
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools & Others
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -109,11 +113,11 @@ const amithh = {
 
 <div align="center">
 
-| 🚀 Project | 📝 Description | 🛠️ Tech Stack |
-|------------|---------------|---------------|
-| **[Portfolio Website](https://itsmeeamith.dev)** | Personal portfolio showcasing my work | React, Vite, TailwindCSS |
-| **API Builder** | Robust REST API with full CRUD operations | Node.js, Express, MongoDB |
-| **Dev Tools** | Automation scripts for development workflow | Python, Shell |
+| 🚀 Project                                       | 📝 Description                              | 🛠️ Tech Stack             |
+| ------------------------------------------------ | ------------------------------------------- | ------------------------- |
+| **[Portfolio Website](https://itsmeeamith.dev)** | Personal portfolio showcasing my work       | React, Vite, TailwindCSS  |
+| **API Builder**                                  | Robust REST API with full CRUD operations   | Node.js, Express, MongoDB |
+| **Dev Tools**                                    | Automation scripts for development workflow | Python, Shell             |
 
 </div>
 
@@ -134,7 +138,8 @@ Linux                    ████████████████░░�
 Windows                  ██████░░░░░░░░░░░░░░░   25%
 
 🔥 Editors
-VS Code                  ████████████████████░  100%
+VS Code ████████████████████░ 100%
+
 ```
 
 </div>
@@ -166,7 +171,7 @@ VS Code                  ██████████████████�
 ---
 
 <div align="center">
-  
+
 ### 💭 Dev Quote of the Day
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -182,3 +187,4 @@ VS Code                  ██████████████████�
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
+```
