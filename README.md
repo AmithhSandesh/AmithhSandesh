@@ -1,30 +1,175 @@
-# 💫 About Me:
+<!-- Profile README for @AmithhSandesh -->
+<!-- Profile README for @AmithhSandesh -->
 
-🔭 Currently Working On:<br>🚀 Developing websites 🌐, software 💻, and e-commerce platforms 🛒. I’m also focused on improving my database design 📊 and web development skills 🖥️ to build efficient and scalable systems. 💪<br><br>👯 Looking to Collaborate On:<br>🤝 Projects related to web development 🖌️ and desktop applications 🖱️. I’m open to working on both front-end 🎨 and back-end 🔧 systems, with the aim of creating intuitive and impactful solutions 🏆.<br><br>🤝 Looking for Help With:<br>🔍 Tackling advanced software engineering topics 🧠 and complex database design patterns 🔄. If you have expertise in optimizing large-scale databases 📈 or enhancing the UI/UX of e-commerce websites 🖼️, let’s connect! 💼✨<br><br>🌱 Currently Learning:<br>📚 Deep-diving into everything about e-commerce systems 🏪, OOPC concepts 🧩, Java ☕, Spring 🌿, Microservices 🕸️, and refining my understanding of database normalization 🔍 to elevate my skill set 🎯.<br><br>💬 <!-- Ask Me About:<br>💻 Web development 💡, database design 🗃️, Bootstrap 🔷, Tailwind CSS 🌬️, and tips for designing user-friendly e-commerce systems 🛍️ and Desktop Applications 🖥️. I’m always happy to share my insights! 🎙️🔍<br><br>⚡ Fun Fact:<br>🎨 I love building platforms that merge aesthetic design ✨ with powerful functionality ⚙️. Plus, I’m always keen on exploring new tech stacks 🛠️ that push the boundaries of what I can create! 🚀💥-->
+# Hi, I’m Amithh Sandesh 👋
 
-<!-- 
+Full‑stack developer — I build fast, accessible, and delightful web applications. I love practical engineering, automation, and learning modern frontend and backend patterns.
 
+———
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/amithsandesh) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ItsmeeAmith/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/itsmeeamith/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amith-sandesh/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/Amith_Sandesh/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Amith-Sandesh) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Worldly-Toe35/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/24462426/amith-sandesh) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/itsmeeamith) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AmithSandes2005) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCnuW2Om5CaKy73WbKghkIyQ/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Amith-Sandesh) 
+<!-- badges -->
+<p>
+	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+	<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+	<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+	<img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+	<img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+</p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Asandesh&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Asandesh&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asandesh&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+## About me
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Asandesh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- Location: Sri Lanka
+- Roles: Full‑stack development, automation, tooling
+- Interests: Performance, DX, scalable APIs, frontend UX patterns
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+## GitHub stats
+
+<p align="left">
+	<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AmithhSandesh&show_icons=true&theme=radical" />
+	<img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmithhSandesh&layout=compact&theme=radical" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Asandesh&icon=6&color=1)](https://visitcount.itsvg.in)
 
- 
+## Featured projects
 
-  
-Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Project Alpha — modern SPA with React + Vite. (link in README or add live/source links)
+- API Builder — Node/Express API with tests and CI.
+- Data Tools — Python automation & developer tools.
+
+Add more projects by editing the `index.html` in the repo root.
+
+---
+
+## Contribution snake
+
+> The contribution-snake graphic below is generated daily by a GitHub Action.
+
+![snake animation](https://raw.githubusercontent.com/AmithhSandesh/AmithhSandesh/output/github-contribution-grid-snake.svg)
+
+---
+
+## Connect
+
+- Email: Itsmeeamith@gmail.com
+- LinkedIn: https://www.linkedin.com/in/AmithhSandesh
+- Portfolio: https://itsmeeamith.dev
+
+---
+
+_Want this README customized further?_ I can add a short intro, replace the featured projects with links and screenshots, or add a resume download link — tell me what you'd like and I’ll update it.
+
+---
+
+## Personalization checklist
+
+- Replace placeholder project cards in `index.html` with real project descriptions, images, and live/deploy links.
+- Add screenshots or animated GIFs to highlight UI/UX (create an `assets/images/` folder).
+- Link to detailed case studies or blog posts for your top projects.
+
+## Contributing / edits
+
+Small edits are welcome via PR. For larger redesigns, please open an issue to discuss scope and assets.
+
+---
+
+## Preview locally
+
+You can preview the static site locally with a simple HTTP server. From the repo root run:
+
+```bash
+# Python 3
+python3 -m http.server 8000
+# Then open http://localhost:8000 in your browser
+```
+
+
+---
+
+
+## 🛠️ Tech I use
+
+
+**Core**
+
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+
+
+**Frontend**
+
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+
+
+**Backend & DB**
+
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+
+
+**Tools**
+
+
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+
+
+---
+
+
+
+
+## 📊 Stats that matter
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AmithhSandesh&show_icons=true&theme=radical" alt="GitHub Stats" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmithhSandesh&theme=radical" alt="GitHub Streak" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmithhSandesh&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+
+---
+
+
+## 🐍 Watch my contributions get eaten
+
+
+> The SVG below is generated daily by a GitHub Action (see `snake.yml`).
+
+
+![snake animation](https://raw.githubusercontent.com/AmithhSandesh/AmithhSandesh/output/github-contribution-grid-snake.svg)
+
+
+---
+
+
+## 🤝 Connect
+
+
+<p>
+<a href="mailto:amithhsandesh@gmail.com">amithhsandesh@gmail.com</a> •
+<a href="https://www.linkedin.com/in/AmithhSandesh">LinkedIn</a> •
+<a href="https://itsmeeamith.dev">Portfolio</a>
+</p>
+
+
+---
+
+
+<p align="center">
+<sub>"Code. Debug. Repeat. That’s how legends are built."</sub>
+</p>
