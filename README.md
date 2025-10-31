@@ -29,25 +29,26 @@
 
 ```javascript
 const amithh = {
-    pronouns: "He" | "Him",
-    location: "Sri Lanka 🇱🇰",
-    code: ["JavaScript", "TypeScript", "Python", "C++"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography","automation"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vite"],
-            css: ["TailwindCSS", "Bootstrap", "Material-UI"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Django", "Flask"]
-        },
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        devOps: ["Docker", "AWS", "GitHub Actions"],
-        tools: ["Git", "Postman", "VS Code", "Figma"]
+  pronouns: "He" | "Him",
+  location: "Sri Lanka 🇱🇰",
+  code: ["JavaScript", "TypeScript", "Python", "C++"],
+  askMeAbout: ["web dev", "tech", "app dev", "photography", "automation"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Next.js", "Vite"],
+      css: ["TailwindCSS", "Bootstrap", "Material-UI"],
     },
-    currentFocus: "Building scalable full-stack applications",
-    funFact: "There are two ways to write error-free programs; only the third works"
+    backEnd: {
+      js: ["Node.js", "Express"],
+      python: ["Django", "Flask"],
+    },
+    databases: ["MongoDB", "MySQL", "PostgreSQL"],
+    devOps: ["Docker", "AWS", "GitHub Actions"],
+    tools: ["Git", "Postman", "VS Code", "Figma"],
+  },
+  currentFocus: "Building scalable full-stack applications",
+  funFact:
+    "There are two ways to write error-free programs; only the third works",
 };
 ```
 
@@ -201,7 +202,7 @@ const amithh = {
 
 **⭐️ From [AmithhSandesh](https://github.com/AmithhSandesh) with 💜**
 
-*"First, solve the problem. Then, write the code."* – John Johnson
+_"First, solve the problem. Then, write the code."_ – John Johnson
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12,16,20,24,28&section=footer" width="100%"/>
 
