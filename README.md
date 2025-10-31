@@ -12,23 +12,23 @@ Full‑stack developer — I build fast, accessible, and delightful web applicat
 
 <p align="center">
 
-  <a href="https://itsmeeamith.dev"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>———
+<a href="https://itsmeeamith.dev"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>———
 
-  <a href="https://www.linkedin.com/in/AmithhSandesh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/AmithhSandesh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-  <a href="mailto:Itsmeeamith@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a><!-- badges -->
+<a href="mailto:Itsmeeamith@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a><!-- badges -->
 
-  <img src="https://komarev.com/ghpvc/?username=AmithhSandesh&style=for-the-badge&color=7c3aed&label=Profile+Views"/><p>
+<img src="https://komarev.com/ghpvc/?username=AmithhSandesh&style=for-the-badge&color=7c3aed&label=Profile+Views"/><p>
 
 </p>	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
 
-	<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
 
 </div>	<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 
-	<img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
 
----	<img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+--- <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
 
 </p>
 
@@ -36,7 +36,7 @@ Full‑stack developer — I build fast, accessible, and delightful web applicat
 
 ## About me
 
-```typescript
+````typescript
 
 const amithh = {- Location: Sri Lanka
 
@@ -150,7 +150,7 @@ const amithh = {- Location: Sri Lanka
 
 <div align="center">## Preview locally
 
-  
+
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmithhSandesh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=C9D1D9" alt="Amithh's GitHub Stats"/>You can preview the static site locally with a simple HTTP server. From the repo root run:
 
@@ -178,7 +178,7 @@ const amithh = {- Location: Sri Lanka
 
 <div align="center">**Core**
 
-  
+
 
 ![](https://github-profile-trophy.vercel.app/?username=AmithhSandesh&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)![JavaScript](https://img.shields.io/badge/-JavaScript-323330?logo=javascript)
 
@@ -256,7 +256,7 @@ const amithh = {- Location: Sri Lanka
 
 <div align="center">---
 
-  
+
 
 ```text## 🐍 Watch my contributions get eaten
 
@@ -272,7 +272,7 @@ Windows                  ██████░░░░░░░░░░░░�
 
 VS Code                  ████████████████████░  100%---
 
-```
+````
 
 ## 🤝 Connect
 
