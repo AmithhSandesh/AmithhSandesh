@@ -17,6 +17,7 @@
 </div>
 
 ---
+
 ---
 
 ## 👨‍💻 About Me
@@ -87,7 +88,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AmithhSandesh&theme=radical&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=AmithhSandesh&theme=radical&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt=""/>
 </div>
 
 <div align="center">
@@ -104,7 +105,7 @@
 
 ---
 
-## 🐍 Contribution Snake 
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -172,7 +173,7 @@
 
 **⭐️ From [AmithhSandesh](https://github.com/AmithhSandesh) with 💜**
 
-*"First, solve the problem. Then, write the code."* – John Johnson
+_"First, solve the problem. Then, write the code."_ – John Johnson
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,16,20,24,28&section=footer" width="100%"/>
 
