@@ -18,12 +18,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" onerror="this.style.display='none'"/>
-</div>
-
----
-
 ## 🌿 About Me
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" onerror="this.style.display='none'">
@@ -47,7 +41,7 @@
 
 ---
 
-## � Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -91,24 +85,29 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmithhSandesh&show_icons=true&theme=algolia&hide_border=true&bg_color=0A0E1A&title_color=4ADE80&icon_color=6EE7B7&text_color=D1FAE5&ring_color=34D399&count_private=true&cache_seconds=1800" alt="GitHub Stats" onerror="this.style.display='none'"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmithhSandesh&layout=compact&theme=algolia&hide_border=true&bg_color=0A0E1A&title_color=4ADE80&text_color=D1FAE5&langs_count=8&cache_seconds=1800" alt="Top Languages" onerror="this.style.display='none'"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmithhSandesh&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58E6A0&icon_color=58E6A0&text_color=ffffff&ring_color=58E6A0&count_private=true&include_all_commits=true" alt="GitHub Stats" onerror="this.style.display='none'"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmithhSandesh&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58E6A0&text_color=ffffff&langs_count=8" alt="Top Languages" onerror="this.style.display='none'"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AmithhSandesh&theme=algolia&hide_border=true&background=0A0E1A&stroke=4ADE80&ring=34D399&fire=6EE7B7&currStreakLabel=4ADE80&sideNums=D1FAE5&sideLabels=10B981&dates=A7F3D0" alt="GitHub Streak" onerror="this.style.display='none'"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AmithhSandesh&theme=dark&hide_border=true&background=0D1117&stroke=58E6A0&ring=58E6A0&fire=FFA500&currStreakLabel=58E6A0&sideNums=ffffff&sideLabels=58E6A0&dates=ffffff" alt="GitHub Streak" onerror="this.style.display='none'"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmithhSandesh&bg_color=0A0E1A&color=4ADE80&line=34D399&point=6EE7B7&area=true&hide_border=true" alt="Contribution Graph" onerror="this.style.display='none'"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmithhSandesh&bg_color=0d1117&color=58E6A0&line=58E6A0&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" onerror="this.style.display='none'"/>
 </div>
 
 ---
 
-## 🏆 Trophies
+## 🏆 GitHub Profile Summary
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmithhSandesh&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title_color=4ADE80&text_color=D1FAE5&icon_color=6EE7B7" alt="GitHub Trophies" onerror="this.style.display='none'"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmithhSandesh&theme=github_dark" alt="Profile Summary" onerror="this.style.display='none'"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmithhSandesh&theme=github_dark" alt="Productive Time" width="48%" onerror="this.style.display='none'"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmithhSandesh&theme=github_dark" alt="Top Languages" width="48%" onerror="this.style.display='none'"/>
 </div>
 
 ---
@@ -125,7 +124,7 @@
 
 ---
 
-## � Current Focus
+## 🎯 Current Focus
 
 <div align="center">
 
@@ -173,8 +172,6 @@
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=algolia&qColor=4ADE80&aColor=10B981" alt="Jokes Card" onerror="this.style.display='none'"/>
 
 </div>
-
----
 
 ---
 
