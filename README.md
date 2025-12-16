@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=%F0%9F%8C%9F%20AMITH%20SANDESH%20%F0%9F%8C%9F&fontSize=80&fontAlign=50&fontAlignY=35&color=gradient&customColorList=0,2,2,5,17&desc=Full-Stack%20Developer%20%7C%20Code%20Enthusiast%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlign=50&descAlignY=55&descSize=18" width="100%" alt="Welcome Banner" onerror="this.style.display='none'"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=AMITH%20SANDESH&fontSize=85&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,14,20,24,30&desc=Full-Stack%20Developer%20%E2%9A%A1%20Creator%20%E2%9A%A1%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlign=50&descAlignY=55" width="100%" alt="Welcome Banner" onerror="this.style.display='none'"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=true&width=800&lines=%E2%9C%A8+Full-Stack+Developer+%F0%9F%92%BB;%F0%9F%8C%8A+React+%7C+TypeScript+%7C+Node.js+%E2%9A%A1;%F0%9F%9A%80+Building+Scalable+Applications;%F0%9F%92%8E+Always+Learning+New+Tech+%F0%9F%93%9A;%F0%9F%8C%9F+Clean+Code+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=700&lines=Full-Stack+Developer+%F0%9F%92%BB;Building+Scalable+Applications+%F0%9F%9A%80;React+%7C+TypeScript+%7C+Node.js;Always+Learning+%26+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-00F5FF?style=for-the-badge&logoColor=white&labelColor=0D7377)](https://itsmeeamith.dev)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=14FFEC)](https://www.linkedin.com/in/AmithhSandesh)
-[![Email](https://img.shields.io/badge/✉️_Email-Contact-0ACDFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00F5FF)](mailto:Itsmeeamith@gmail.com)
-[![GitHub](https://img.shields.io/badge/⭐_GitHub-Follow-7FFFD4?style=for-the-badge&logo=github&logoColor=black&labelColor=00CED1)](https://github.com/AmithhSandesh?tab=followers)
-![Profile Views](https://komarev.com/ghpvc/?username=AmithhSandesh&style=for-the-badge&color=00f5ff&label=✨+VIEWS)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Visit-1a1b27?style=for-the-badge&logoColor=white)](https://itsmeeamith.dev)
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-Connect-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0ea5e9)](https://www.linkedin.com/in/AmithhSandesh)
+[![Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Email-Contact-1a1b27?style=for-the-badge&logo=gmail&logoColor=8b5cf6)](mailto:Itsmeeamith@gmail.com)
+[![GitHub](https://img.shields.io/badge/%E2%AD%90_GitHub-Follow-1a1b27?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmithhSandesh?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=AmithhSandesh&style=for-the-badge&color=8b5cf6&label=VIEWS)
 
 </div>
 
@@ -22,16 +22,16 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" onerror="this.style.display='none'">
 
-**🌊 Full-Stack Developer from Sri Lanka 🇱🇰**
+**Full-Stack Developer from Sri Lanka 🇱🇰**
 
-- 💡 Currently building **scalable full-stack applications**
-- 💎 Working with **JavaScript, TypeScript, Python & C++**
-- 🚀 Love working on **React, Node.js, Express & Next.js**
+- 💡 Building **scalable full-stack applications**
+- 💻 Working with **JavaScript, TypeScript, Python & C++**
+- ⚡ Specializing in **React, Node.js, Express & Next.js**
 - 🎨 Frontend: **TailwindCSS, Bootstrap, Material-UI**
 - 🗄️ Databases: **MongoDB, MySQL, PostgreSQL**
 - ☁️ DevOps: **Docker, AWS, GitHub Actions**
-- 📫 Ask me about **web dev, tech, app dev, photography, automation**
-- 🌟 Fun fact: **There are two ways to write error-free programs; only the third works**
+- 📧 Reach me: **web dev, tech, app dev, photography**
+- 🎯 Open to: **Full-time • Freelance • Collaboration**
 
 <br clear="right"/>
 
@@ -81,16 +81,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmithhSandesh&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=14FFEC&text_color=ffffff&ring_color=00F5FF&count_private=true" alt="GitHub Stats" onerror="this.style.display='none'"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmithhSandesh&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff&langs_count=8" alt="Top Languages" onerror="this.style.display='none'"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmithhSandesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=0ea5e9&text_color=c9d1d9&ring_color=8b5cf6&count_private=true" alt="GitHub Stats" onerror="this.style.display='none'"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmithhSandesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=8" alt="Top Languages" onerror="this.style.display='none'"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AmithhSandesh&theme=react&hide_border=true&background=0D1117&stroke=00F5FF&ring=14FFEC&fire=FFA500&currStreakLabel=00F5FF&sideNums=ffffff&sideLabels=00F5FF&dates=ffffff" alt="GitHub Streak" onerror="this.style.display='none'"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AmithhSandesh&theme=tokyonight&hide_border=true&background=0d1117&stroke=8b5cf6&ring=0ea5e9&fire=FFA500&currStreakLabel=8b5cf6&sideNums=c9d1d9&sideLabels=8b5cf6&dates=c9d1d9" alt="GitHub Streak" onerror="this.style.display='none'"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmithhSandesh&bg_color=0d1117&color=00F5FF&line=14FFEC&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" onerror="this.style.display='none'"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmithhSandesh&bg_color=0d1117&color=8b5cf6&line=0ea5e9&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph" onerror="this.style.display='none'"/>
 </div>
 
 ---
@@ -125,17 +125,16 @@
 <div align="center">
 
 ```diff
-@@ 🌊 What I'm up to 🌊 @@
+@@ Building & Learning @@
 
 + 🚀 Building production-ready full-stack applications
-+ 🌟 Mastering TypeScript, React and system design
-+ 💎 Contributing to open-source projects
-+ 📚 Learning Docker, AWS and cloud infrastructure
-+ 🌊 Exploring Web3 and blockchain technology
++ 📚 Mastering TypeScript, React & system design
++ 🌟 Contributing to open-source projects
++ ☁️ Learning cloud infrastructure & DevOps
++ 🔗 Exploring Web3 and blockchain tech
 
 ! 💬 Ask me about: JavaScript, React, Node.js, TypeScript
-! ⚡ Fun fact: Debugging is like being a detective where you're also the murderer
-! 🌟 Currently open to exciting opportunities!
+! 💎 Currently open to exciting opportunities!
 ```
 
 </div>
@@ -146,12 +145,12 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-00F5FF?style=for-the-badge&logoColor=white&labelColor=0D7377)](https://itsmeeamith.dev)
-[![LinkedIn](https://img.shields.io/badge/👋_LinkedIn-Connect-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=14FFEC)](https://www.linkedin.com/in/AmithhSandesh)
-[![Email](https://img.shields.io/badge/📬_Email-Contact-0ACDFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00F5FF)](mailto:Itsmeeamith@gmail.com)
-[![Twitter](https://img.shields.io/badge/🐦_Twitter-Follow-7FFFD4?style=for-the-badge&logo=twitter&logoColor=black&labelColor=00CED1)](https://twitter.com/AmithhSandesh)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-1a1b27?style=for-the-badge&logoColor=8b5cf6)](https://itsmeeamith.dev)
+[![LinkedIn](https://img.shields.io/badge/👋_LinkedIn-Connect-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0ea5e9)](https://www.linkedin.com/in/AmithhSandesh)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-1a1b27?style=for-the-badge&logo=gmail&logoColor=8b5cf6)](mailto:Itsmeeamith@gmail.com)
+[![Twitter](https://img.shields.io/badge/🐦_Twitter-Follow-1a1b27?style=for-the-badge&logo=twitter&logoColor=0ea5e9)](https://twitter.com/AmithhSandesh)
 
-**🌟 Open to work • 💎 Freelance • 🌊 Full-time opportunities 🌟**
+**💡 Open to Work • 🚀 Freelance • 🤝 Collaboration**
 
 </div>
 
@@ -161,11 +160,11 @@
 
 ### 💭 Random Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&borderColor=00F5FF" alt="Dev Quote" onerror="this.style.display='none'"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=false" alt="Dev Quote" onerror="this.style.display='none'"/>
 
 ### 😄 Random Dev Joke
 
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&qColor=00F5FF&aColor=14FFEC" alt="Jokes Card" onerror="this.style.display='none'"/>
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" onerror="this.style.display='none'"/>
 
 </div>
 
@@ -173,14 +172,14 @@
 
 <div align="center">
 
-### 🌊 Thanks for Visiting! 🌊
+### ✨ Thanks for Visiting
 
-**🌟 From [AmithhSandesh](https://github.com/AmithhSandesh) with 💎**
+**Made with 💜 by [AmithhSandesh](https://github.com/AmithhSandesh)**
 
 _"First, solve the problem. Then, write the code."_ – John Johnson
 
-💎 **If you like my work, consider giving a ⭐️!** 💎
+💎 **Enjoyed my work? Drop a ⭐!** 💎
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,2,5,17&section=footer" width="100%" alt="Footer" onerror="this.style.display='none'"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,14,20,24,30&section=footer" width="100%" alt="Footer" onerror="this.style.display='none'"/>
 
 </div>
