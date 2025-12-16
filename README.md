@@ -81,7 +81,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmithhSandesh&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=14FFEC&text_color=ffffff&ring_color=00F5FF&count_private=true&include_all_commits=true" alt="GitHub Stats" onerror="this.style.display='none'"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmithhSandesh&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=14FFEC&text_color=ffffff&ring_color=00F5FF&count_private=true" alt="GitHub Stats" onerror="this.style.display='none'"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmithhSandesh&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff&langs_count=8" alt="Top Languages" onerror="this.style.display='none'"/>
 </div>
 
