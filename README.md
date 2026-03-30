@@ -1,156 +1,151 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=AMITH%20SANDESH&fontSize=85&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,14,20,24,30&desc=Full-Stack%20Developer%20%E2%9A%A1%20Creator%20%E2%9A%A1%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlign=50&descAlignY=55" width="100%" alt="Welcome Banner" onerror="this.style.display='none'"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=AMITH%20SANDESH&fontSize=68&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Engineer%20from%20Sri%20Lanka&descAlign=50&descAlignY=56&animation=twinkling&color=gradient&customColorList=0,4,10,24,30" width="100%" alt="Hero Banner"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=700&lines=Full-Stack+Developer+%F0%9F%92%BB;Building+Scalable+Applications+%F0%9F%9A%80;React+%7C+TypeScript+%7C+Node.js;Always+Learning+%26+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=880&lines=Engineering+Scalable+Products+with+Precision;React+%C3%97+TypeScript+%C3%97+Node.js;Backend+Depth+with+Frontend+Craft)](https://git.io/typing-svg)
 
-</div>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Visit-1a1b27?style=for-the-badge&logoColor=white)](https://itsmeeamith.dev)
-[![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-Connect-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0ea5e9)](https://www.linkedin.com/in/AmithhSandesh)
-[![Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Email-Contact-1a1b27?style=for-the-badge&logo=gmail&logoColor=8b5cf6)](mailto:Itsmeeamith@gmail.com)
-[![GitHub](https://img.shields.io/badge/%E2%AD%90_GitHub-Follow-1a1b27?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmithhSandesh?tab=followers)
-![Profile Views](https://komarev.com/ghpvc/?username=AmithhSandesh&style=for-the-badge&color=8b5cf6&label=VIEWS)
+[![Portfolio](https://img.shields.io/badge/Portfolio-itsmeeamith.dev-111111?style=for-the-badge&logo=vercel&logoColor=0EA5E9&labelColor=0A0A0F)](https://itsmeeamith.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AmithhSandesh-111111?style=for-the-badge&logo=linkedin&logoColor=0EA5E9&labelColor=0A0A0F)](https://www.linkedin.com/in/AmithhSandesh)
+[![Email](https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=8B5CF6&labelColor=0A0A0F)](mailto:Itsmeeamith@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0A0A0F)](https://github.com/AmithhSandesh?tab=followers)
 
 </div>
 
 ---
 
-## 💎 About Me
+## Elevator Pitch
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" onerror="this.style.display='none'">
-
-**Full-Stack Developer from Sri Lanka 🇱🇰**
-
-- 💡 Building **scalable full-stack applications**
-- 💻 Working with **JavaScript, TypeScript, Python & C++**
-- ⚡ Specializing in **React, Node.js, Express & Next.js**
-- 🎨 Frontend: **TailwindCSS, Bootstrap, Material-UI**
-- 🗄️ Databases: **MongoDB, MySQL, PostgreSQL**
-- ☁️ DevOps: **Docker, AWS, GitHub Actions**
-- 📧 Reach me: **web dev, tech, app dev, photography**
-- 🎯 Open to: **Full-time • Freelance • Collaboration**
-
-<br clear="right"/>
+I am a Sri Lanka-based Full-Stack Developer who translates complex backend logic into reliable APIs, resilient architectures, and measurable business outcomes. I bridge that engineering depth with pixel-perfect UI execution in React and TypeScript, delivering products that feel as polished as they are scalable.
 
 ---
 
-## 💻 Tech Stack
+## Skills Matrix
 
 <div align="center">
 
-### � Frontend
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=00CED1)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=00D9FF)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=00F5FF)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00F5FF&labelColor=0D7377)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=14FFEC)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=00CED1)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=00D9FF)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=00F5FF)
-
-### 🚀 Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=00CED1)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=00F5FF&labelColor=0D7377)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=14FFEC)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00D9FF)
-
-### 💾 Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=00F5FF)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=00CED1)
-![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=14FFEC)
-
-### ✨ Tools & Clouds
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=00D9FF)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=0D7377)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=00CED1)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=14FFEC)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=00F5FF)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=00CED1)
+<table>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td align="center"><b>Backend</b></td>
+    <td align="center"><b>Data</b></td>
+    <td align="center"><b>Cloud and Tooling</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-0EA5E9?style=flat-square&logo=react&logoColor=0A0A0F" alt="React"/>
+      <img src="https://img.shields.io/badge/TypeScript-8B5CF6?style=flat-square&logo=typescript&logoColor=FFFFFF" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=0EA5E9" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/Tailwind-0EA5E9?style=flat-square&logo=tailwindcss&logoColor=0A0A0F" alt="Tailwind"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=0EA5E9" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Express-8B5CF6?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express"/>
+      <img src="https://img.shields.io/badge/Python-0EA5E9?style=flat-square&logo=python&logoColor=0A0A0F" alt="Python"/>
+      <img src="https://img.shields.io/badge/C++-8B5CF6?style=flat-square&logo=cplusplus&logoColor=FFFFFF" alt="C++"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=0EA5E9" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/MySQL-8B5CF6?style=flat-square&logo=mysql&logoColor=FFFFFF" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/MongoDB-0EA5E9?style=flat-square&logo=mongodb&logoColor=0A0A0F" alt="MongoDB"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=0EA5E9" alt="Docker"/>
+      <img src="https://img.shields.io/badge/AWS-8B5CF6?style=flat-square&logo=amazonaws&logoColor=FFFFFF" alt="AWS"/>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-0EA5E9?style=flat-square&logo=githubactions&logoColor=0A0A0F" alt="GitHub Actions"/>
+      <img src="https://img.shields.io/badge/Postman-111111?style=flat-square&logo=postman&logoColor=0EA5E9" alt="Postman"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmithhSandesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=0ea5e9&text_color=c9d1d9&ring_color=8b5cf6&count_private=true" alt="GitHub Stats" onerror="this.style.display='none'"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmithhSandesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=8" alt="Top Languages" onerror="this.style.display='none'"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AmithhSandesh&theme=tokyonight&hide_border=true&background=0d1117&stroke=8b5cf6&ring=0ea5e9&fire=FFA500&currStreakLabel=8b5cf6&sideNums=c9d1d9&sideLabels=8b5cf6&dates=c9d1d9" alt="GitHub Streak" onerror="this.style.display='none'"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmithhSandesh&bg_color=0d1117&color=8b5cf6&line=0ea5e9&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph" onerror="this.style.display='none'"/>
-</div>
-
----
-
-## 🏆 GitHub Profile Summary
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmithhSandesh&theme=nord_dark" alt="Profile Summary" onerror="this.style.display='none'"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmithhSandesh&theme=nord_dark" alt="Productive Time" width="48%" onerror="this.style.display='none'"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmithhSandesh&theme=nord_dark" alt="Top Languages" width="48%" onerror="this.style.display='none'"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmithhSandesh/AmithhSandesh/output/github-contribution-grid-snake-dark.svg" onerror="this.style.display='none'">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmithhSandesh/AmithhSandesh/output/github-contribution-grid-snake.svg" onerror="this.style.display='none'">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AmithhSandesh/AmithhSandesh/output/github-contribution-grid-snake.svg" onerror="this.style.display='none'">
-  </picture>
-</div>
-
----
-
-## 🎯 Current Focus
+## Featured Projects
 
 <div align="center">
 
-```diff
-@@ Building & Learning @@
-
-+ 🚀 Building production-ready full-stack applications
-+ 📚 Mastering TypeScript, React & system design
-+ 🌟 Contributing to open-source projects
-+ ☁️ Learning cloud infrastructure & DevOps
-+ 🔗 Exploring Web3 and blockchain tech
-
-! 💬 Ask me about: JavaScript, React, Node.js, TypeScript
-! 💎 Currently open to exciting opportunities!
-```
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>PulseBoard SaaS Analytics</h3>
+      <p>A high-performance analytics dashboard focused on real-time insights, role-based access, and crisp interaction design for product teams.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-0EA5E9?style=flat-square&logo=react&logoColor=0A0A0F" alt="React"/>
+        <img src="https://img.shields.io/badge/TypeScript-8B5CF6?style=flat-square&logo=typescript&logoColor=FFFFFF" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=0EA5E9" alt="Node.js"/>
+      </p>
+      <a href="https://github.com/AmithhSandesh?tab=repositories">View Project</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>FlowCommerce Platform</h3>
+      <p>A scalable commerce core with modular APIs, secure checkout workflows, and optimized frontend rendering for conversion-focused experiences.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=0EA5E9" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-8B5CF6?style=flat-square&logo=postgresql&logoColor=FFFFFF" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/Docker-0EA5E9?style=flat-square&logo=docker&logoColor=0A0A0F" alt="Docker"/>
+      </p>
+      <a href="https://github.com/AmithhSandesh?tab=repositories">View Project</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Nexus API Orchestrator</h3>
+      <p>An integration-ready backend service layer that streamlines cross-service communication, observability, and deployment reliability.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Express-8B5CF6?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express"/>
+        <img src="https://img.shields.io/badge/MongoDB-0EA5E9?style=flat-square&logo=mongodb&logoColor=0A0A0F" alt="MongoDB"/>
+        <img src="https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonaws&logoColor=0EA5E9" alt="AWS"/>
+      </p>
+      <a href="https://github.com/AmithhSandesh?tab=repositories">View Project</a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 🔗 Let's Connect
+## Current Activity
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-1a1b27?style=for-the-badge&logoColor=8b5cf6)](https://itsmeeamith.dev)
-[![LinkedIn](https://img.shields.io/badge/👋_LinkedIn-Connect-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0ea5e9)](https://www.linkedin.com/in/AmithhSandesh)
-[![Email](https://img.shields.io/badge/📧_Email-Contact-1a1b27?style=for-the-badge&logo=gmail&logoColor=8b5cf6)](mailto:Itsmeeamith@gmail.com)
-[![Twitter](https://img.shields.io/badge/🐦_Twitter-Follow-1a1b27?style=for-the-badge&logo=twitter&logoColor=0ea5e9)](https://twitter.com/AmithhSandesh)
+<img src="https://img.shields.io/badge/Now%20Building-Full--Stack%20SaaS%20Interfaces-111111?style=for-the-badge&logo=github&logoColor=0EA5E9&labelColor=0A0A0F" alt="Now Building"/>
+<img src="https://img.shields.io/github/last-commit/AmithhSandesh/AmithhSandesh?style=for-the-badge&color=8B5CF6&labelColor=0A0A0F" alt="Last Commit"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-111111?style=for-the-badge&logo=rocket&logoColor=8B5CF6&labelColor=0A0A0F" alt="Status"/>
 
-**💡 Open to Work • 🚀 Freelance • 🤝 Collaboration**
+</div>
+
+---
+
+## GitHub Signal
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AmithhSandesh&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=8B5CF6&icon_color=0EA5E9&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmithhSandesh&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=AmithhSandesh&hide_border=true&background=0A0A0F&stroke=8B5CF6&ring=0EA5E9&fire=8B5CF6&currStreakLabel=0EA5E9&sideNums=C9D1D9&sideLabels=8B5CF6&dates=C9D1D9" alt="GitHub Streak"/>
+</div>
+
+---
+
+## Development Philosophy
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="33%" valign="top" align="left">
+      <h3>01. Clean Code</h3>
+      <p>Readable architecture wins long-term velocity. I optimize for maintainability before cleverness.</p>
+    </td>
+    <td width="33%" valign="top" align="left">
+      <h3>02. Scalability by Design</h3>
+      <p>I design systems for growth from day one: modular services, observable pipelines, and reliable deployment flows.</p>
+    </td>
+    <td width="33%" valign="top" align="left">
+      <h3>03. UX-First Engineering</h3>
+      <p>Performance and usability are product features. Every technical decision should improve user trust and clarity.</p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -158,28 +153,10 @@
 
 <div align="center">
 
-### 💭 Random Dev Quote
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-0A0A0F?style=for-the-badge&logo=vercel&logoColor=0EA5E9)](https://itsmeeamith.dev)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=0EA5E9)](https://www.linkedin.com/in/AmithhSandesh)
+[![Email](https://img.shields.io/badge/Start%20a%20Conversation-0A0A0F?style=for-the-badge&logo=gmail&logoColor=8B5CF6)](mailto:Itsmeeamith@gmail.com)
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=false" alt="Dev Quote" onerror="this.style.display='none'"/>
-
-### 😄 Random Dev Joke
-
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" onerror="this.style.display='none'"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ Thanks for Visiting
-
-**Made with 💜 by [AmithhSandesh](https://github.com/AmithhSandesh)**
-
-_"First, solve the problem. Then, write the code."_ – John Johnson
-
-💎 **Enjoyed my work? Drop a ⭐!** 💎
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,14,20,24,30&section=footer" width="100%" alt="Footer" onerror="this.style.display='none'"/>
+<sub>Built with intention by Amith Sandesh</sub>
 
 </div>
