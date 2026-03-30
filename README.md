@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=AMITH%20SANDESH&fontSize=68&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Engineer%20from%20Sri%20Lanka&descAlign=50&descAlignY=56&animation=twinkling&color=gradient&customColorList=0,4,10,24,30" width="100%" alt="Hero Banner"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=250&text=AMITH%20SANDESH&fontSize=66&fontAlign=50&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Sri%20Lanka&descAlign=50&descAlignY=56&color=gradient&customColorList=0,4,10,24,30"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=250&text=AMITH%20SANDESH&fontSize=66&fontAlign=50&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Sri%20Lanka&descAlign=50&descAlignY=56&color=gradient&customColorList=2,5,12,20,25"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=AMITH%20SANDESH&fontSize=66&fontAlign=50&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Sri%20Lanka&descAlign=50&descAlignY=56&color=gradient&customColorList=0,4,10,24,30" width="100%" alt="Hero Banner"/>
+</picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=880&lines=Engineering+Scalable+Products+with+Precision;React+%C3%97+TypeScript+%C3%97+Node.js;Backend+Depth+with+Frontend+Craft)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=860&lines=React+%C3%97+TypeScript+%C3%97+Node.js;Complex+Systems%2C+Clean+Interfaces;Shipping+Reliable+Digital+Products)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-itsmeeamith.dev-111111?style=for-the-badge&logo=vercel&logoColor=0EA5E9&labelColor=0A0A0F)](https://itsmeeamith.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AmithhSandesh-111111?style=for-the-badge&logo=linkedin&logoColor=0EA5E9&labelColor=0A0A0F)](https://www.linkedin.com/in/AmithhSandesh)
@@ -15,44 +19,76 @@
 
 ## Elevator Pitch
 
-I am a Sri Lanka-based Full-Stack Developer who translates complex backend logic into reliable APIs, resilient architectures, and measurable business outcomes. I bridge that engineering depth with pixel-perfect UI execution in React and TypeScript, delivering products that feel as polished as they are scalable.
+I architect resilient backend systems that handle real-world complexity while keeping performance, clarity, and scale at the center. Then I bring that power to the surface with pixel-precise React and TypeScript interfaces that make advanced workflows feel effortless.
 
 ---
 
-## Skills Matrix
+## Current Stack
+
+<!--
+2D source matrix:
+[
+  ["React", "TypeScript", "Next.js", "TailwindCSS"],
+  ["Node.js", "Express", "Python", "C++"],
+  ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
+  ["Docker", "AWS", "GitHub Actions", "Postman"]
+]
+-->
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td align="center"><b>Backend</b></td>
-    <td align="center"><b>Data</b></td>
-    <td align="center"><b>Cloud and Tooling</b></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/React-0EA5E9?style=flat-square&logo=react&logoColor=0A0A0F" alt="React"/></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/TypeScript-8B5CF6?style=flat-square&logo=typescript&logoColor=FFFFFF" alt="TypeScript"/></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=0EA5E9" alt="Next.js"/></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?style=flat-square&logo=tailwindcss&logoColor=0A0A0F" alt="TailwindCSS"/></td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/React-0EA5E9?style=flat-square&logo=react&logoColor=0A0A0F" alt="React"/>
-      <img src="https://img.shields.io/badge/TypeScript-8B5CF6?style=flat-square&logo=typescript&logoColor=FFFFFF" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=0EA5E9" alt="Next.js"/>
-      <img src="https://img.shields.io/badge/Tailwind-0EA5E9?style=flat-square&logo=tailwindcss&logoColor=0A0A0F" alt="Tailwind"/>
+    <td align="center"><img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=0EA5E9" alt="Node.js"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Express-8B5CF6?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Python-0EA5E9?style=flat-square&logo=python&logoColor=0A0A0F" alt="Python"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/C%2B%2B-8B5CF6?style=flat-square&logo=cplusplus&logoColor=FFFFFF" alt="C++"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=0EA5E9" alt="PostgreSQL"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/MySQL-8B5CF6?style=flat-square&logo=mysql&logoColor=FFFFFF" alt="MySQL"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/MongoDB-0EA5E9?style=flat-square&logo=mongodb&logoColor=0A0A0F" alt="MongoDB"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Redis-111111?style=flat-square&logo=redis&logoColor=0EA5E9" alt="Redis"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=0EA5E9" alt="Docker"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/AWS-8B5CF6?style=flat-square&logo=amazonaws&logoColor=FFFFFF" alt="AWS"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/GitHub%20Actions-0EA5E9?style=flat-square&logo=githubactions&logoColor=0A0A0F" alt="GitHub Actions"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Postman-111111?style=flat-square&logo=postman&logoColor=0EA5E9" alt="Postman"/></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## Workstation
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="left" width="50%">
+      <b>Machine</b><br/>
+      macOS daily driver tuned for full-stack development<br/><br/>
+      <b>Editor</b><br/>
+      VS Code with TypeScript-first DX extensions<br/><br/>
+      <b>Terminal</b><br/>
+      zsh workflow with Git-centric automation
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=0EA5E9" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/Express-8B5CF6?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express"/>
-      <img src="https://img.shields.io/badge/Python-0EA5E9?style=flat-square&logo=python&logoColor=0A0A0F" alt="Python"/>
-      <img src="https://img.shields.io/badge/C++-8B5CF6?style=flat-square&logo=cplusplus&logoColor=FFFFFF" alt="C++"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=0EA5E9" alt="PostgreSQL"/>
-      <img src="https://img.shields.io/badge/MySQL-8B5CF6?style=flat-square&logo=mysql&logoColor=FFFFFF" alt="MySQL"/>
-      <img src="https://img.shields.io/badge/MongoDB-0EA5E9?style=flat-square&logo=mongodb&logoColor=0A0A0F" alt="MongoDB"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=0EA5E9" alt="Docker"/>
-      <img src="https://img.shields.io/badge/AWS-8B5CF6?style=flat-square&logo=amazonaws&logoColor=FFFFFF" alt="AWS"/>
-      <img src="https://img.shields.io/badge/GitHub%20Actions-0EA5E9?style=flat-square&logo=githubactions&logoColor=0A0A0F" alt="GitHub Actions"/>
-      <img src="https://img.shields.io/badge/Postman-111111?style=flat-square&logo=postman&logoColor=0EA5E9" alt="Postman"/>
+    <td align="left" width="50%">
+      <b>Runtime Stack</b><br/>
+      Node.js, Python, Docker, GitHub CLI<br/><br/>
+      <b>Design + API Flow</b><br/>
+      Figma-to-React handoff, Postman-driven API validation<br/><br/>
+      <b>Focus Mode</b><br/>
+      Build fast, profile early, refactor before scale breaks
     </td>
   </tr>
 </table>
@@ -69,7 +105,7 @@ I am a Sri Lanka-based Full-Stack Developer who translates complex backend logic
   <tr>
     <td width="33%" valign="top">
       <h3>PulseBoard SaaS Analytics</h3>
-      <p>A high-performance analytics dashboard focused on real-time insights, role-based access, and crisp interaction design for product teams.</p>
+      <p>Real-time insights platform with role-based access, responsive dashboards, and production-grade API orchestration.</p>
       <p>
         <img src="https://img.shields.io/badge/React-0EA5E9?style=flat-square&logo=react&logoColor=0A0A0F" alt="React"/>
         <img src="https://img.shields.io/badge/TypeScript-8B5CF6?style=flat-square&logo=typescript&logoColor=FFFFFF" alt="TypeScript"/>
@@ -79,7 +115,7 @@ I am a Sri Lanka-based Full-Stack Developer who translates complex backend logic
     </td>
     <td width="33%" valign="top">
       <h3>FlowCommerce Platform</h3>
-      <p>A scalable commerce core with modular APIs, secure checkout workflows, and optimized frontend rendering for conversion-focused experiences.</p>
+      <p>Commerce engine focused on secure checkout flows, scalable data models, and conversion-oriented frontend performance.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=0EA5E9" alt="Next.js"/>
         <img src="https://img.shields.io/badge/PostgreSQL-8B5CF6?style=flat-square&logo=postgresql&logoColor=FFFFFF" alt="PostgreSQL"/>
@@ -89,7 +125,7 @@ I am a Sri Lanka-based Full-Stack Developer who translates complex backend logic
     </td>
     <td width="33%" valign="top">
       <h3>Nexus API Orchestrator</h3>
-      <p>An integration-ready backend service layer that streamlines cross-service communication, observability, and deployment reliability.</p>
+      <p>Integration-first backend layer designed for observability, service reliability, and clean internal contracts.</p>
       <p>
         <img src="https://img.shields.io/badge/Express-8B5CF6?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express"/>
         <img src="https://img.shields.io/badge/MongoDB-0EA5E9?style=flat-square&logo=mongodb&logoColor=0A0A0F" alt="MongoDB"/>
@@ -116,6 +152,37 @@ I am a Sri Lanka-based Full-Stack Developer who translates complex backend logic
 
 ---
 
+## Technical Contribution Summary
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" valign="top" align="left">
+      <h3>Frontend Prowess</h3>
+      <p>Consistent React and TypeScript shipping velocity with a strong focus on design fidelity, interaction quality, and component scalability.</p>
+      <ul>
+        <li>UI architecture for maintainable component systems</li>
+        <li>Type-safe frontend patterns with predictable state flows</li>
+        <li>Performance-first rendering and UX consistency</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" align="left">
+      <h3>Backend Stability</h3>
+      <p>Reliable Node.js service design centered on clear contracts, operational resilience, and production-minded delivery pipelines.</p>
+      <ul>
+        <li>Robust API boundaries and schema-aware integrations</li>
+        <li>Scalable data access patterns across SQL and NoSQL</li>
+        <li>Deployment and observability readiness from day one</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## GitHub Signal
 
 <div align="center">
@@ -134,15 +201,15 @@ I am a Sri Lanka-based Full-Stack Developer who translates complex backend logic
   <tr>
     <td width="33%" valign="top" align="left">
       <h3>01. Clean Code</h3>
-      <p>Readable architecture wins long-term velocity. I optimize for maintainability before cleverness.</p>
+      <p>Readable architecture compounds team speed and product confidence.</p>
     </td>
     <td width="33%" valign="top" align="left">
       <h3>02. Scalability by Design</h3>
-      <p>I design systems for growth from day one: modular services, observable pipelines, and reliable deployment flows.</p>
+      <p>Modular boundaries and reliable pipelines prepare systems for growth.</p>
     </td>
     <td width="33%" valign="top" align="left">
       <h3>03. UX-First Engineering</h3>
-      <p>Performance and usability are product features. Every technical decision should improve user trust and clarity.</p>
+      <p>Technical decisions are successful only when users feel the quality.</p>
     </td>
   </tr>
 </table>
@@ -150,6 +217,39 @@ I am a Sri Lanka-based Full-Stack Developer who translates complex backend logic
 </div>
 
 ---
+
+## Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- No posts synced yet. Workflow can replace this block automatically.
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## Last Updated
+
+<!-- LAST_UPDATED:START -->
+2026-03-30 00:00 UTC
+<!-- LAST_UPDATED:END -->
+
+---
+
+## Connect
+
+<div align="center">
+  <a href="https://itsmeeamith.dev" title="Portfolio" style="text-decoration:none; margin: 0 10px;">
+    <img src="https://cdn.simpleicons.org/vercel/0EA5E9" alt="Portfolio" width="28" height="28"/>
+  </a>
+  <a href="https://www.linkedin.com/in/AmithhSandesh" title="LinkedIn" style="text-decoration:none; margin: 0 10px;">
+    <img src="https://cdn.simpleicons.org/linkedin/0EA5E9" alt="LinkedIn" width="28" height="28"/>
+  </a>
+  <a href="mailto:Itsmeeamith@gmail.com" title="Email" style="text-decoration:none; margin: 0 10px;">
+    <img src="https://cdn.simpleicons.org/gmail/8B5CF6" alt="Email" width="28" height="28"/>
+  </a>
+  <a href="https://github.com/AmithhSandesh" title="GitHub" style="text-decoration:none; margin: 0 10px;">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="28" height="28"/>
+  </a>
+</div>
 
 <div align="center">
 
@@ -160,3 +260,7 @@ I am a Sri Lanka-based Full-Stack Developer who translates complex backend logic
 <sub>Built with intention by Amith Sandesh</sub>
 
 </div>
+
+<!-- EASTER EGG 1: If you're reading source, you care about craftsmanship. Respect. -->
+<!-- EASTER EGG 2: There is no magic, only logs, metrics, and clean abstractions. -->
+<!-- EASTER EGG 3: 0EA5E9 + 8B5CF6 = shipping mode. -->

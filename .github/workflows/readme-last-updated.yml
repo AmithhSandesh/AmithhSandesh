@@ -1,0 +1,34 @@
+name: Refresh README Metadata
+
+on:
+  schedule:
+    - cron: "15 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update Last Updated timestamp
+        run: |
+          TS="$(date -u '+%Y-%m-%d %H:%M UTC')"
+          perl -0777 -i -pe "s|<!-- LAST_UPDATED:START -->.*?<!-- LAST_UPDATED:END -->|<!-- LAST_UPDATED:START -->\\n$TS\\n<!-- LAST_UPDATED:END -->|s" README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet; then
+            echo "No README updates to commit"
+            exit 0
+          fi
+          git add README.md
+          git commit -m "chore(readme): refresh last updated timestamp"
+          git push
