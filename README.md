@@ -1,78 +1,111 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=AMITH%20SANDESH&fontSize=85&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,14,20,24,30&desc=Full-Stack%20Developer%20%E2%9A%A1%20Creator%20%E2%9A%A1%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlign=50&descAlignY=55" width="100%" alt="Welcome Banner" onerror="this.style.display='none'"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=AMITH%20SANDESH&fontSize=85&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,6,12,20&desc=Cybersecurity%20Engineer%20%F0%9F%9B%A1%EF%B8%8F%20%20SOC%20Analyst%20%F0%9F%94%8D%20%20Penetration%20Tester%20%E2%9A%94%EF%B8%8F&descAlign=50&descAlignY=58" width="100%" alt="Banner"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=700&lines=Full-Stack+Developer+%F0%9F%92%BB;Building+Scalable+Applications+%F0%9F%9A%80;React+%7C+TypeScript+%7C+Node.js;Always+Learning+%26+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&repeat=true&width=750&lines=Cybersecurity+Engineer+in+Progress+%F0%9F%9B%A1%EF%B8%8F;Building+SOC+Labs+%26+Breaking+Things+Ethically+%E2%9A%94%EF%B8%8F;Red+Team+%7C+Blue+Team+%7C+Full+Stack;Wazuh+%7C+Kali+Linux+%7C+Metasploit+%7C+ELK+Stack;Hack+the+lab.+Detect+the+attack.+Learn+both.)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Visit-1a1b27?style=for-the-badge&logoColor=white)](https://itsmeeamith.dev)
-[![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-Connect-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0ea5e9)](https://www.linkedin.com/in/AmithhSandesh)
-[![Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Email-Contact-1a1b27?style=for-the-badge&logo=gmail&logoColor=8b5cf6)](mailto:Itsmeeamith@gmail.com)
-[![GitHub](https://img.shields.io/badge/%E2%AD%90_GitHub-Follow-1a1b27?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmithhSandesh?tab=followers)
-![Profile Views](https://komarev.com/ghpvc/?username=AmithhSandesh&style=for-the-badge&color=8b5cf6&label=VIEWS)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Visit-0d1117?style=for-the-badge&logoColor=white)](https://itsmeeamith.dev)
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88)](https://www.linkedin.com/in/AmithhSandesh)
+[![Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:Itsmeeamith@gmail.com)
+[![GitHub](https://img.shields.io/badge/%E2%AD%90_GitHub-Follow-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmithhSandesh?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=AmithhSandesh&style=for-the-badge&color=00ff88&label=VIEWS)
 
 </div>
 
 ---
 
-## 💎 About Me
+## 🛡️ About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" onerror="this.style.display='none'">
+<img align="right" alt="Hacking" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-**Full-Stack Developer from Sri Lanka 🇱🇰**
+**Cybersecurity Engineer | Sri Lanka 🇱🇰**
 
-- 💡 Building **scalable full-stack applications**
-- 💻 Working with **JavaScript, TypeScript, Python & C++**
-- ⚡ Specializing in **React, Node.js, Express & Next.js**
-- 🎨 Frontend: **TailwindCSS, Bootstrap, Material-UI**
-- 🗄️ Databases: **MongoDB, MySQL, PostgreSQL**
-- ☁️ DevOps: **Docker, AWS, GitHub Actions**
-- 📧 Reach me: **web dev, tech, app dev, photography**
-- 🎯 Open to: **Full-time • Freelance • Collaboration**
+- 🔭 Currently building a **multi-node SOC home lab** with real attack/defence pipelines
+- ⚔️ Red Team: **Kali Linux · Metasploit · Hydra · Nmap · Burp Suite**
+- 🛡️ Blue Team: **Wazuh SIEM · ELK Stack · Sysmon · Filebeat · Winlogbeat**
+- 🕵️ Specialising in **threat detection, incident response & penetration testing**
+- 🌐 Full-Stack background: **React · Node.js · Python · TypeScript**
+- ☁️ Infrastructure: **Oracle Cloud · DigitalOcean · Docker · Tailscale mesh VPN**
+- 🎯 Studying towards: **CEH · CompTIA Security+ · OSCP**
+- 💬 Ask me about: **SOC labs, Wazuh, ethical hacking, OSINT tools**
 
 <br clear="right"/>
 
 ---
 
-## 💻 Tech Stack
+## 🧪 Home SOC Lab Architecture
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                     TAILSCALE MESH NETWORK                      │
+│                                                                 │
+│  ⚔️  Kali VM          🎯  Windows VM        🍯  DigitalOcean    │
+│  100.85.233.56        100.102.25.50          100.95.128.15      │
+│  Attacker node        Primary target         Honeypot + Target  │
+│  Metasploit · Hydra   Sysmon · Wazuh agent   Cowrie · DVWA      │
+│       │                     │                      │            │
+│       └─────────────────────┴──────────────────────┘            │
+│                             │                                   │
+│                    🛡️  Oracle Cloud                             │
+│                    100.115.218.66                               │
+│              Wazuh SIEM · ELK Stack · Kibana                   │
+│              24 GB RAM · 200 GB · ARM64 Ampere                  │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🔐 Security Stack
 
 <div align="center">
 
-### � Frontend
+### ⚔️ Offensive Tools
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=00CED1)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=00D9FF)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=00F5FF)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00F5FF&labelColor=0D7377)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=14FFEC)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=00CED1)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=00D9FF)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=00F5FF)
+### 🛡️ Defensive / SOC Tools
+![Wazuh](https://img.shields.io/badge/Wazuh-00ADD8?style=for-the-badge&logo=wazuh&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-E8478B?style=for-the-badge&logo=kibana&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-FEC514?style=for-the-badge&logo=logstash&logoColor=black)
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
-### 🚀 Backend
+### 💻 Development Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00ff88)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=00CED1)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=00F5FF&labelColor=0D7377)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=14FFEC)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00D9FF)
+### ☁️ Infrastructure
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 💾 Databases
+</div>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=00F5FF)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=00CED1)
-![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=14FFEC)
+---
 
-### ✨ Tools & Clouds
+## 🚀 Featured Projects
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=00D9FF)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=0D7377)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=00CED1)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=14FFEC)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=00F5FF)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=00CED1)
+<div align="center">
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🔐 **HydraForge** | OSINT-driven password attack suite — generates 25K+ targeted wordlists and fires Hydra in real time with live browser streaming | Python · Flask · Hydra · Wazuh |
+| 🛡️ **Multi-Node SOC Lab** | 5-device SOC lab with Wazuh SIEM, ELK Stack, Sysmon telemetry, honeypot, and full attack/detection pipeline over Tailscale mesh | Wazuh · ELK · Kali · Oracle Cloud |
+| 🍯 **Cowrie Honeypot** | Internet-facing SSH honeypot on DigitalOcean capturing real-world bot attacks, feeding live threat data into Wazuh | Cowrie · Docker · Filebeat |
+| 🌐 **itsmeeamith.dev** | Personal portfolio and project showcase | Next.js · TypeScript · TailwindCSS |
 
 </div>
 
@@ -81,41 +114,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmithhSandesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=0ea5e9&text_color=c9d1d9&ring_color=8b5cf6&count_private=true" alt="GitHub Stats" onerror="this.style.display='none'"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmithhSandesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=8" alt="Top Languages" onerror="this.style.display='none'"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmithhSandesh&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00e5ff&text_color=c9d1d9&ring_color=00ff88&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmithhSandesh&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AmithhSandesh&theme=tokyonight&hide_border=true&background=0d1117&stroke=8b5cf6&ring=0ea5e9&fire=FFA500&currStreakLabel=8b5cf6&sideNums=c9d1d9&sideLabels=8b5cf6&dates=c9d1d9" alt="GitHub Streak" onerror="this.style.display='none'"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AmithhSandesh&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00e5ff&fire=ff6b2b&currStreakLabel=00ff88&sideNums=c9d1d9&sideLabels=00ff88&dates=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmithhSandesh&bg_color=0d1117&color=8b5cf6&line=0ea5e9&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph" onerror="this.style.display='none'"/>
-</div>
-
----
-
-## 🏆 GitHub Profile Summary
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmithhSandesh&theme=nord_dark" alt="Profile Summary" onerror="this.style.display='none'"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmithhSandesh&theme=nord_dark" alt="Productive Time" width="48%" onerror="this.style.display='none'"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmithhSandesh&theme=nord_dark" alt="Top Languages" width="48%" onerror="this.style.display='none'"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmithhSandesh/AmithhSandesh/output/github-contribution-grid-snake-dark.svg" onerror="this.style.display='none'">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmithhSandesh/AmithhSandesh/output/github-contribution-grid-snake.svg" onerror="this.style.display='none'">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AmithhSandesh/AmithhSandesh/output/github-contribution-grid-snake.svg" onerror="this.style.display='none'">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmithhSandesh&bg_color=0d1117&color=00ff88&line=00e5ff&point=ffffff&area=true&hide_border=true"/>
 </div>
 
 ---
@@ -125,18 +133,33 @@
 <div align="center">
 
 ```diff
-@@ Building & Learning @@
+@@ Red Team / Blue Team Lab — Active @@
 
-+ 🚀 Building production-ready full-stack applications
-+ 📚 Mastering TypeScript, React & system design
-+ 🌟 Contributing to open-source projects
-+ ☁️ Learning cloud infrastructure & DevOps
-+ 🔗 Exploring Web3 and blockchain tech
++ ✅ Wazuh SIEM deployed on Oracle Cloud (ARM64 Ampere)
++ ✅ 4 agents reporting live — Kali, Windows, DigitalOcean, MacBook
++ ✅ Sysmon telemetry on Windows VM
++ ✅ HydraForge v3 — OSINT brute force tool built & tested
++ ✅ Real attack → real detection pipeline verified
 
-! 💬 Ask me about: JavaScript, React, Node.js, TypeScript
-! 💎 Currently open to exciting opportunities!
+! 🔄 Deploying Cowrie honeypot on DigitalOcean
+! 🔄 ELK Stack alongside Wazuh for dual dashboard
+! 🔄 Building custom Wazuh detection rules (MITRE ATT&CK mapped)
+
+# 📚 Studying: CEH | CompTIA Security+ | OSCP prep
 ```
 
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmithhSandesh/AmithhSandesh/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmithhSandesh/AmithhSandesh/output/github-contribution-grid-snake.svg">
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/AmithhSandesh/AmithhSandesh/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </div>
 
 ---
@@ -145,12 +168,12 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-1a1b27?style=for-the-badge&logoColor=8b5cf6)](https://itsmeeamith.dev)
-[![LinkedIn](https://img.shields.io/badge/👋_LinkedIn-Connect-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0ea5e9)](https://www.linkedin.com/in/AmithhSandesh)
-[![Email](https://img.shields.io/badge/📧_Email-Contact-1a1b27?style=for-the-badge&logo=gmail&logoColor=8b5cf6)](mailto:Itsmeeamith@gmail.com)
-[![Twitter](https://img.shields.io/badge/🐦_Twitter-Follow-1a1b27?style=for-the-badge&logo=twitter&logoColor=0ea5e9)](https://twitter.com/AmithhSandesh)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-itsmeeamith.dev-0d1117?style=for-the-badge&logoColor=00ff88)](https://itsmeeamith.dev)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-AmithhSandesh-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88)](https://www.linkedin.com/in/AmithhSandesh)
+[![Email](https://img.shields.io/badge/📧_Email-Itsmeeamith@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:Itsmeeamith@gmail.com)
+[![Twitter](https://img.shields.io/badge/🐦_Twitter-AmithhSandesh-0d1117?style=for-the-badge&logo=twitter&logoColor=00ff88)](https://twitter.com/AmithhSandesh)
 
-**💡 Open to Work • 🚀 Freelance • 🤝 Collaboration**
+**🛡️ Open to: Cybersecurity Roles • SOC Analyst • Pentest Internships • Collaboration**
 
 </div>
 
@@ -159,27 +182,16 @@
 <div align="center">
 
 ### 💭 Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&border=false"/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=false" alt="Dev Quote" onerror="this.style.display='none'"/>
+<br/>
 
-### 😄 Random Dev Joke
+**Made with 💚 by [AmithhSandesh](https://github.com/AmithhSandesh)**
 
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" onerror="this.style.display='none'"/>
+_"The quieter you become, the more you are able to hear."_ — Kali Linux
 
-</div>
+💚 **Found something useful? Drop a ⭐** 💚
 
----
-
-<div align="center">
-
-### ✨ Thanks for Visiting
-
-**Made with 💜 by [AmithhSandesh](https://github.com/AmithhSandesh)**
-
-_"First, solve the problem. Then, write the code."_ – John Johnson
-
-💎 **Enjoyed my work? Drop a ⭐!** 💎
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,14,20,24,30&section=footer" width="100%" alt="Footer" onerror="this.style.display='none'"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,2,6,12,20&section=footer" width="100%"/>
 
 </div>
