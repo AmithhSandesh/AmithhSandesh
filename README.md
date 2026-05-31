@@ -37,27 +37,7 @@
 
 ---
 
-## 🧪 Home SOC Lab Architecture
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                     TAILSCALE MESH NETWORK                      │
-│                                                                 │
-│  ⚔️  Kali VM          🎯  Windows VM        🍯  DigitalOcean    │
-│  100.85.233.56        100.102.25.50          100.95.128.15      │
-│  Attacker node        Primary target         Honeypot + Target  │
-│  Metasploit · Hydra   Sysmon · Wazuh agent   Cowrie · DVWA      │
-│       │                     │                      │            │
-│       └─────────────────────┴──────────────────────┘            │
-│                             │                                   │
-│                    🛡️  Oracle Cloud                             │
-│                    100.115.218.66                               │
-│              Wazuh SIEM · ELK Stack · Kibana                   │
-│              24 GB RAM · 200 GB · ARM64 Ampere                  │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
 
 ## 🔐 Security Stack
 
@@ -96,18 +76,7 @@
 
 ---
 
-## 🚀 Featured Projects
 
-<div align="center">
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🔐 **HydraForge** | OSINT-driven password attack suite — generates 25K+ targeted wordlists and fires Hydra in real time with live browser streaming | Python · Flask · Hydra · Wazuh |
-| 🛡️ **Multi-Node SOC Lab** | 5-device SOC lab with Wazuh SIEM, ELK Stack, Sysmon telemetry, honeypot, and full attack/detection pipeline over Tailscale mesh | Wazuh · ELK · Kali · Oracle Cloud |
-| 🍯 **Cowrie Honeypot** | Internet-facing SSH honeypot on DigitalOcean capturing real-world bot attacks, feeding live threat data into Wazuh | Cowrie · Docker · Filebeat |
-| 🌐 **itsmeeamith.dev** | Personal portfolio and project showcase | Next.js · TypeScript · TailwindCSS |
-
-</div>
 
 ---
 
@@ -135,7 +104,7 @@
 ```diff
 @@ Red Team / Blue Team Lab — Active @@
 
-+ ✅ Wazuh SIEM deployed on Oracle Cloud (ARM64 Ampere)
++ ✅ Wazuh SIEM deployed on Oracle Cloud 
 + ✅ 4 agents reporting live — Kali, Windows, DigitalOcean, MacBook
 + ✅ Sysmon telemetry on Windows VM
 + ✅ HydraForge v3 — OSINT brute force tool built & tested
