@@ -1,166 +1,159 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/signal-room-header.svg" width="100%" alt="Amith Sandesh — cybersecurity engineer in progress, building SOC labs and software">
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=AMITH%20SANDESH&fontSize=85&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,6,12,20&desc=Cybersecurity%20Engineer%20%F0%9F%9B%A1%EF%B8%8F%20%20SOC%20Analyst%20%F0%9F%94%8D%20%20Penetration%20Tester%20%E2%9A%94%EF%B8%8F&descAlign=50&descAlignY=58" width="100%" alt="Banner"/>
+<p align="center">
+  <a href="https://amithhsandesh.github.io/portfolio/"><img src="https://img.shields.io/badge/OPEN_PORTFOLIO-B8FF3D?style=for-the-badge&logo=githubpages&logoColor=080B0C" alt="Open portfolio"></a>
+  <a href="https://www.linkedin.com/in/amith-sandesh/"><img src="https://img.shields.io/badge/LINKEDIN-4DE8F5?style=for-the-badge&logo=linkedin&logoColor=080B0C" alt="LinkedIn"></a>
+  <a href="mailto:Itsmeeamith@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EEF0E8?style=for-the-badge&logo=gmail&logoColor=080B0C" alt="Email Amith"></a>
+  <img src="https://komarev.com/ghpvc/?username=AmithhSandesh&style=for-the-badge&color=26302e&label=PROFILE+SIGNALS" alt="Profile views">
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&repeat=true&width=750&lines=Cybersecurity+Engineer+in+Progress+%F0%9F%9B%A1%EF%B8%8F;Building+SOC+Labs+%26+Breaking+Things+Ethically+%E2%9A%94%EF%B8%8F;Red+Team+%7C+Blue+Team+%7C+Full+Stack;Wazuh+%7C+Kali+Linux+%7C+Metasploit+%7C+ELK+Stack;Hack+the+lab.+Detect+the+attack.+Learn+both.)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Visit-0d1117?style=for-the-badge&logoColor=white)](https://itsmeeamith.dev)
-[![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88)](https://www.linkedin.com/in/AmithhSandesh)
-[![Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:Itsmeeamith@gmail.com)
-[![GitHub](https://img.shields.io/badge/%E2%AD%90_GitHub-Follow-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmithhSandesh?tab=followers)
-![Profile Views](https://komarev.com/ghpvc/?username=AmithhSandesh&style=for-the-badge&color=00ff88&label=VIEWS)
-
-</div>
+<p align="center"><samp>observe the signal / test the assumption / document the evidence</samp></p>
 
 ---
 
-## 🛡️ About Me
+## `01 / operator profile`
 
-<img align="right" alt="Hacking" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+I am Amith, based in Colombo, Sri Lanka. My public code started with web and desktop applications. My current direction is cybersecurity: SOC operations, detection engineering, controlled attack simulation, and incident-response practice.
 
-**Cybersecurity Engineer | Sri Lanka 🇱🇰**
-
-- 🔭 Currently building a **multi-node SOC home lab** with real attack/defence pipelines
-- ⚔️ Red Team: **Kali Linux · Metasploit · Hydra · Nmap · Burp Suite**
-- 🛡️ Blue Team: **Wazuh SIEM · ELK Stack · Sysmon · Filebeat · Winlogbeat**
-- 🕵️ Specialising in **threat detection, incident response & penetration testing**
-- 🌐 Full-Stack background: **React · Node.js · Python · TypeScript**
-- ☁️ Infrastructure: **Oracle Cloud · DigitalOcean · Docker · Tailscale mesh VPN**
-- 🎯 Studying towards: **CEH · CompTIA Security+ · OSCP**
-- 💬 Ask me about: **SOC labs, Wazuh, ethical hacking, OSINT tools**
-
-<br clear="right"/>
-
----
-
-
-
-## 🔐 Security Stack
-
-<div align="center">
-
-### ⚔️ Offensive Tools
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-### 🛡️ Defensive / SOC Tools
-![Wazuh](https://img.shields.io/badge/Wazuh-00ADD8?style=for-the-badge&logo=wazuh&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-E8478B?style=for-the-badge&logo=kibana&logoColor=white)
-![Logstash](https://img.shields.io/badge/Logstash-FEC514?style=for-the-badge&logo=logstash&logoColor=black)
-![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
-### 💻 Development Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00ff88)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### ☁️ Infrastructure
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmithhSandesh&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00e5ff&text_color=c9d1d9&ring_color=00ff88&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmithhSandesh&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=8"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AmithhSandesh&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00e5ff&fire=ff6b2b&currStreakLabel=00ff88&sideNums=c9d1d9&sideLabels=00ff88&dates=c9d1d9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmithhSandesh&bg_color=0d1117&color=00ff88&line=00e5ff&point=ffffff&area=true&hide_border=true"/>
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-```diff
-@@ Red Team / Blue Team Lab — Active @@
-
-+ ✅ Wazuh SIEM deployed on Oracle Cloud 
-+ ✅ 4 agents reporting live — Kali, Windows, DigitalOcean, MacBook
-+ ✅ Sysmon telemetry on Windows VM
-+ ✅ HydraForge v3 — OSINT brute force tool built & tested
-+ ✅ Real attack → real detection pipeline verified
-
-! 🔄 Deploying Cowrie honeypot on DigitalOcean
-! 🔄 ELK Stack alongside Wazuh for dual dashboard
-! 🔄 Building custom Wazuh detection rules (MITRE ATT&CK mapped)
-
-# 📚 Studying: CEH | CompTIA Security+ | OSCP prep
+```text
+CURRENT VECTOR   SOC labs + threat detection
+PUBLIC CODE      React / JavaScript / C# / .NET
+LAB PRACTICE     Wazuh / ELK / Sysmon / Kali Linux
+INFRASTRUCTURE   Linux / Docker / Oracle Cloud / DigitalOcean / Tailscale
+LEARNING PATH    CEH + Security+ + OSCP preparation
+STATUS           building, testing, documenting
 ```
 
-</div>
+> Security work listed below reflects my current self-directed lab practice. CEH, Security+, and OSCP are study goals, not earned certifications.
+
+<p align="center"><img src="./assets/signal-trace.svg" width="100%" alt="Signal trace divider"></p>
+
+## `02 / selected build evidence`
+
+| Case file | What is public | Source |
+|:--|:--|:--:|
+| **Signal Room portfolio** | Dependency-free, responsive portfolio with a live GitHub profile pulse and GitHub Pages deployment | [Open site](https://amithhsandesh.github.io/portfolio/) · [Repository](https://github.com/AmithhSandesh/portfolio) |
+| **CinemaHut** | React 19 + Vite movie-discovery interface with search, detail routes, favourites, and responsive UI | [Repository](https://github.com/AmithhSandesh/React_Movie_App) |
+| **Blood Bank prototype** | .NET Framework 4.5 Windows Forms prototype with admin navigation, donor-form validation, and a SQL data-access helper | [Repository](https://github.com/AmithhSandesh/Blood-Bank-Management-System) |
+
+<details>
+<summary><strong>What I want to publish next</strong></summary>
+<br>
+A sanitized SOC-lab repository with an architecture diagram, controlled attack traces, Wazuh rules, alert evidence, incident notes, and reproducible setup steps. The goal is to turn the security claims on this profile into public technical evidence.
+</details>
 
 ---
 
-## 🐍 Contribution Snake
+## `03 / lab notebook`
 
-<div align="center">
+```diff
+@@ RED / BLUE LAB — SELF-DIRECTED PRACTICE @@
+
++ Wazuh SIEM deployed in the lab environment
++ Kali, Windows, cloud, and workstation telemetry in the test setup
++ Sysmon telemetry feeding Windows security events
++ Controlled attack-to-detection exercises
+
+! Cowrie honeypot deployment in progress
+! ELK alongside Wazuh under active study
+! Custom Wazuh rules and MITRE ATT&CK mapping in progress
+
+# STUDY TRACK: CEH / CompTIA Security+ / OSCP preparation
+```
+
+The lab is where I practise the full loop: generate a known signal, observe the telemetry, investigate the alert, tune the rule, and write down what changed.
+
+---
+
+## `04 / capability map`
+
+<table>
+<tr>
+<td width="25%" valign="top">
+<strong>DETECT</strong><br><br>
+<code>Wazuh</code><br>
+<code>ELK Stack</code><br>
+<code>Sysmon</code><br>
+<code>Filebeat</code><br>
+<code>Winlogbeat</code><br>
+<code>Incident response</code>
+</td>
+<td width="25%" valign="top">
+<strong>TEST</strong><br><br>
+<code>Kali Linux</code><br>
+<code>Nmap</code><br>
+<code>Burp Suite</code><br>
+<code>Metasploit</code><br>
+<code>Wireshark</code><br>
+<code>OSINT</code>
+</td>
+<td width="25%" valign="top">
+<strong>BUILD</strong><br><br>
+<code>React</code><br>
+<code>JavaScript</code><br>
+<code>TypeScript</code><br>
+<code>Python</code><br>
+<code>Node.js</code><br>
+<code>C#</code>
+</td>
+<td width="25%" valign="top">
+<strong>OPERATE</strong><br><br>
+<code>Linux</code><br>
+<code>Docker</code><br>
+<code>Oracle Cloud</code><br>
+<code>DigitalOcean</code><br>
+<code>Tailscale</code><br>
+<code>GitHub</code>
+</td>
+</tr>
+</table>
+
+<sub>The security and infrastructure tools above describe current profile-declared lab practice. The selected projects section links to the public code evidence available today.</sub>
+
+---
+
+## `05 / GitHub signal`
+
+<p align="center">
+  <img width="49%" src="https://streak-stats.demolab.com?user=AmithhSandesh&theme=github-dark-blue&hide_border=true&background=0D1117&ring=B8FF3D&fire=FF654D&currStreakLabel=B8FF3D&sideLabels=8D9692&dates=6E7773" alt="GitHub contribution streak">
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AmithhSandesh&bg_color=0d1117&color=8d9692&line=b8ff3d&point=4de8f5&area=true&area_color=20331d&hide_border=true&custom_title=PUBLIC%20ACTIVITY%20TRACE" alt="GitHub public activity graph">
+</p>
+
+<details>
+<summary><strong>Why there is no giant language chart here</strong></summary>
+<br>
+Languages are context, not proof. A small repository can dominate a chart without representing depth. Open the case files instead and inspect the source.
+</details>
+
+---
+
+## `06 / contribution trace`
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmithhSandesh/AmithhSandesh/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmithhSandesh/AmithhSandesh/output/github-contribution-grid-snake.svg">
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/AmithhSandesh/AmithhSandesh/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/AmithhSandesh/AmithhSandesh/output/github-contribution-grid-snake-dark.svg">
   </picture>
-</div>
+</p>
 
 ---
 
-## 🔗 Let's Connect
+## `07 / open channel`
 
-<div align="center">
+I am open to cybersecurity roles, SOC analyst opportunities, security internships, and collaborations where I can keep learning while producing useful technical work.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-itsmeeamith.dev-0d1117?style=for-the-badge&logoColor=00ff88)](https://itsmeeamith.dev)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-AmithhSandesh-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88)](https://www.linkedin.com/in/AmithhSandesh)
-[![Email](https://img.shields.io/badge/📧_Email-Itsmeeamith@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:Itsmeeamith@gmail.com)
-[![Twitter](https://img.shields.io/badge/🐦_Twitter-AmithhSandesh-0d1117?style=for-the-badge&logo=twitter&logoColor=00ff88)](https://twitter.com/AmithhSandesh)
+<p align="center">
+  <a href="https://amithhsandesh.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-B8FF3D?style=for-the-badge&logo=githubpages&logoColor=080B0C" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/amith-sandesh/"><img src="https://img.shields.io/badge/LINKEDIN-4DE8F5?style=for-the-badge&logo=linkedin&logoColor=080B0C" alt="LinkedIn"></a>
+  <a href="mailto:Itsmeeamith@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EEF0E8?style=for-the-badge&logo=gmail&logoColor=080B0C" alt="Email"></a>
+  <a href="https://github.com/AmithhSandesh?tab=followers"><img src="https://img.shields.io/badge/FOLLOW-26302E?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Follow on GitHub"></a>
+</p>
 
-**🛡️ Open to: Cybersecurity Roles • SOC Analyst • Pentest Internships • Collaboration**
+<p align="center">
+  <samp>AMITH SANDESH // COLOMBO, LK // BUILD THE LAB. READ THE LOG. FIX THE GAP.</samp>
+</p>
 
-</div>
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&border=false"/>
-
-<br/>
-
-**Made with 💚 by [AmithhSandesh](https://github.com/AmithhSandesh)**
-
-_"The quieter you become, the more you are able to hear."_ — Kali Linux
-
-💚 **Found something useful? Drop a ⭐** 💚
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,2,6,12,20&section=footer" width="100%"/>
-
-</div>
+<p align="center"><img src="./assets/signal-trace.svg" width="100%" alt="Signal trace divider"></p>
