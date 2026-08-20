@@ -18,12 +18,23 @@
 I am Amith, based in Colombo, Sri Lanka. My public code started with web and desktop applications. My current direction is cybersecurity: SOC operations, detection engineering, controlled attack simulation, and incident-response practice.
 
 ```text
-CURRENT VECTOR   SOC labs + threat detection
-PUBLIC CODE      React / JavaScript / C# / .NET
-LAB PRACTICE     Wazuh / ELK / Sysmon / Kali Linux
-INFRASTRUCTURE   Linux / Docker / Oracle Cloud / DigitalOcean / Tailscale
-LEARNING PATH    CEH + Security+ + OSCP preparation
-STATUS           building, testing, documenting
+CURRENT VECTOR
+SOC labs + threat detection
+
+PUBLIC CODE
+React / JavaScript / C# / .NET
+
+LAB PRACTICE
+Wazuh / ELK / Sysmon / Kali Linux
+
+INFRASTRUCTURE
+Linux / Docker / cloud / Tailscale
+
+LEARNING PATH
+CEH + Security+ + OSCP preparation
+
+STATUS
+building / testing / documenting
 ```
 
 > Security work listed below reflects my current self-directed lab practice. CEH, Security+, and OSCP are study goals, not earned certifications.
@@ -71,7 +82,7 @@ The lab is where I practise the full loop: generate a known signal, observe the 
 
 <table>
 <tr>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 <strong>DETECT</strong><br><br>
 <code>Wazuh</code><br>
 <code>ELK Stack</code><br>
@@ -80,7 +91,7 @@ The lab is where I practise the full loop: generate a known signal, observe the 
 <code>Winlogbeat</code><br>
 <code>Incident response</code>
 </td>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 <strong>TEST</strong><br><br>
 <code>Kali Linux</code><br>
 <code>Nmap</code><br>
@@ -89,7 +100,9 @@ The lab is where I practise the full loop: generate a known signal, observe the 
 <code>Wireshark</code><br>
 <code>OSINT</code>
 </td>
-<td width="25%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 <strong>BUILD</strong><br><br>
 <code>React</code><br>
 <code>JavaScript</code><br>
@@ -98,7 +111,7 @@ The lab is where I practise the full loop: generate a known signal, observe the 
 <code>Node.js</code><br>
 <code>C#</code>
 </td>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 <strong>OPERATE</strong><br><br>
 <code>Linux</code><br>
 <code>Docker</code><br>
